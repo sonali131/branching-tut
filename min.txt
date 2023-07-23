@@ -1,0 +1,1 @@
+This is min.text for login system
